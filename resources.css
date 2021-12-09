@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+.line1{
+	height:100%;
+	width:2px;
+	position: absolute;
+	left: 33.3%;
+	top:13.8%; 
+	background-color:#ffffff;
+}
+.line2{
+	height:100%;
+	width:2px;
+	position: absolute;
+	left: 66.6%;
+	top:13.8%;
+	background-color:#ffffff;
+}
+.video{
+	position: absolute;
+	left: 171px;
+	top: 132px
+}
+.software{
+	position: absolute;
+	left: 818px;
+	top: 127px;
+}
+.text{
+	position: absolute;
+	left: 1395px;
+	top: 129px;
+}
+.IntellijIDEAC{
+	position: absolute;
+	left: 219px;
+	top: 223px;
+}/*带C的为教程*/
+.FLStudioC{
+	position: absolute;
+	left: 19%;
+	top: 25%;
+}
+.bluelightS{
+	position: absolute;
+	left: 38%;
+	top: 25%;
+}/*带S的为软件*/
+.C4DS{
+	position: absolute;
+	left: 52%;
+	top: 25%;
+}
+.CubaseS{
+	position: absolute;
+	left: 38%;
+	top: 31%;
+}
+.AdobePoJieS{
+	position: absolute;
+	left: 52%;
+	top: 31%;
+}
+.AeS{
+	position: absolute;
+	left: 38%;
+	top: 37%;
+}
+.DwS{
+	position: absolute;
+	left: 52%;
+	top: 37%;
+}
+.PrS{
+	position: absolute;
+	left: 38%;
+	top: 43%;
+}
+.VOCALOIDS{
+	position: absolute;
+	left: 52%;
+	top: 43%;
+}
+.FlStudioS{
+	position: absolute;
+	left: 1507px;
+	top: 360px;
+}
+.BaiduCloudPoJieS{
+	position: absolute;
+	left: 52%;
+	top: 49%;
+}
+.NotepadS{
+	position: absolute;
+	left: 1340px;
+	top: 254px;
+}
+.AXiMoLinKeHuanXiaoShuoT{
+	position: absolute;
+	left: 70%;
+	top: 25%;
+}/*带T的为文档*/
+.ChaoXinXingJiYuanT{
+	position: absolute;
+	left: 1508px;
+	top: 296px;
+}
+.XinLiZuiT{
+	position: absolute;
+	left: 70%;
+	top: 31%;
+}
+.HeiAnZhiHunT{
+	position: absolute;
+	left: 1509px;
+	top: 242px;
+}
+.SanTiT{
+	position: absolute;
+	left: 70%;
+	top: 37%;
+}
